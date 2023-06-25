@@ -10,7 +10,6 @@ class Solution {
             }
             i++;
         }
-        System.out.println(op);
         int maxLength=-1;
         String ans="";
         for(String r:op){
@@ -25,13 +24,8 @@ class Solution {
     public static boolean makeEqual(String res,String s){
         String temp="";
         int div=s.length()/res.length();
-        for(int i=0;i<div;i++){
-            temp=temp+res;
-        }
-        if(temp.equals(s)) {
-            System.out.println(temp+" "+res);
-            return true;
-        }
+        for(int i=0;i<div;i++)          temp=temp+res;
+        if(temp.equals(s))      return true;
         return false;
     }
 }
