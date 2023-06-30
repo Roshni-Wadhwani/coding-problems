@@ -25,7 +25,7 @@ class Solution {
         // }
         // return ans;
 
-        // little optimised
+        // another approach
         factorial.clear();
         ans.clear();
         calculateFactorialUptoN(numRows);
