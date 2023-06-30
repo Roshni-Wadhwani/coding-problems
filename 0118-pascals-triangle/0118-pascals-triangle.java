@@ -33,7 +33,7 @@ class Solution {
         for(int i=1;i<numRows;i++){
             List<Integer>temp=new ArrayList<>();
             for(int r=0;r<=i;r++)   {
-                System.out.println("fact: "+factorial.get(i));
+                // System.out.println("fact: "+factorial.get(i));
                 int op=calculateNCR(i,r,i-r);
                 temp.add(op);
             }
