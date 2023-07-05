@@ -11,10 +11,10 @@ class Solution {
             else        arr[i]=arr[i-1]+nums[i];
         }
 
-        for(int i=0;i<nums.length;i++)   System.out.print(nums[i]+" ");
-        System.out.println();
-        for(int i=0;i<arr.length;i++)   System.out.print(arr[i]+" ");
-        System.out.println("li: "+li);
+        // for(int i=0;i<nums.length;i++)   System.out.print(nums[i]+" ");
+        // System.out.println();
+        // for(int i=0;i<arr.length;i++)   System.out.print(arr[i]+" ");
+        // System.out.println("li: "+li);
 
         int temp=-1;
         int xmax=-1;
