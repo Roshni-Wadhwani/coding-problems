@@ -27,24 +27,9 @@ class Solution {
             }
             current=current.next;
         }
-        curr1.next=null;
+        curr1.next=head2.next;
         curr2.next=null;
-        
-        ListNode temp1=head1.next;
-        ListNode head3=new ListNode(1000);
-        ListNode curr3=head3;
 
-        while(temp1!=null){
-            curr3.next=temp1;
-            curr3=curr3.next;
-            temp1=temp1.next;
-        }
-        ListNode temp2=head2.next;
-        while(temp2!=null){
-            curr3.next=temp2;
-            curr3=curr3.next;
-            temp2=temp2.next;
-        }
-        return head3.next;
+        return head1.next;
     }
 }
