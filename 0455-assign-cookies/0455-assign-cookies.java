@@ -7,7 +7,7 @@ class Solution {
         Arrays.sort(s);
 
         for (int i = 0; i < g.length; i++) {
-            for (int j = 0; j < s.length; j++) {
+            for (int j = i; j < s.length; j++) {
                 if (flag[j] == 0) {
                     if (s[j] >= g[i]) {
                         count++;
