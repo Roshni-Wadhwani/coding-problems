@@ -14,8 +14,6 @@ class Solution {
             i++;
         }
         
-        for(int j=0;j<diffAscii.length;j++) System.out.print(diffAscii[j]+" ");
-        
         int maxLength=0;
         for(int j=0;j<diffAscii.length;j++){
             int k=j;//0
