@@ -16,8 +16,8 @@ class Solution {
         
         int maxLength=0;
         for(int j=0;j<diffAscii.length;j++){
-            int k=j;//0
-            int cost=0;//1
+            int k=j;
+            int cost=0;
             while(k<diffAscii.length && cost<=maxCost){
                 cost+=diffAscii[k];
                 if(cost<=maxCost)   k++;
