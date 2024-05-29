@@ -1,5 +1,4 @@
 import java.math.BigInteger;
-import java.math.BigDecimal;
 class Solution {
     
     public BigInteger convertToInteger(String s){
@@ -21,10 +20,9 @@ class Solution {
         int count=0;
         
         while(!bg1.equals(BigInteger.ONE)){
-            BigInteger t=BigInteger.valueOf(2);
-            BigInteger temp=bg1.mod(t);//13%2
+            BigInteger temp=bg1.mod(BigInteger.TWO);//13%2
             
-            if(temp.equals(BigInteger.ZERO))  bg1=bg1.divide(t);
+            if(temp.equals(BigInteger.ZERO))  bg1=bg1.divide(BigInteger.TWO);
             else                              bg1=bg1.add(BigInteger.ONE);
             
             count++;
