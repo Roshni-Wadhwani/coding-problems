@@ -10,20 +10,17 @@ class Solution {
                freq.put(ch,1);
            }
        }
-       int odd_c=0,temp=0,c=0;
-       for(int val:freq.values()){
-           if(val%2==0){
-               c+=val;
-           }
-           else{
-               odd_c=val/2;
-               odd_c=odd_c*2;
-               c+=odd_c;
-               temp+=1;
-           }
-       }
-       if(temp>=1)          c+=1;
-       return c;
-
+        System.out.println(freq);
+        int odd_c=0,final_c=0;
+        for(Map.Entry<Character,Integer>map:freq.entrySet()){
+            int val=map.getValue();
+            if(val%2==1)        {
+                odd_c++;
+                if(odd_c>1)      final_c+=(val-1);
+                else              final_c+=val;
+            }
+            else                  final_c+=val;
+        }
+        return final_c;
     }
 }
