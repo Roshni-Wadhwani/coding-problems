@@ -10,7 +10,6 @@ class Solution {
                freq.put(ch,1);
            }
        }
-        System.out.println(freq);
         int odd_c=0,final_c=0;
         for(Map.Entry<Character,Integer>map:freq.entrySet()){
             int val=map.getValue();
