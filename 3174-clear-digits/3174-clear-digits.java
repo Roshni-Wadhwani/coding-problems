@@ -33,7 +33,6 @@ class Solution {
                     }
                     s=temp;
                 }
-                System.out.println(digIndex+" "+charIndex+" "+s);
             }
         }
         
