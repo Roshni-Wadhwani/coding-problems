@@ -24,4 +24,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
