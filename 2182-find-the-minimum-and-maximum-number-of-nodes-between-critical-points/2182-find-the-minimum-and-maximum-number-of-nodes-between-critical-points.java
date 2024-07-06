@@ -30,7 +30,7 @@ class Solution {
             current=current.next;
         }
 
-        System.out.println(indices);
+        // System.out.println(indices);
 
         int tempMin=Integer.MAX_VALUE;
 
