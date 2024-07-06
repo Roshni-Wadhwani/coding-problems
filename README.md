@@ -42,4 +42,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
