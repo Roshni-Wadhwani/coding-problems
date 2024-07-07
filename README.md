@@ -43,9 +43,11 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
 ## Linked List
 |  |
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
