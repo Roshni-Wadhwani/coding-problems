@@ -9,6 +9,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,11 +39,13 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
 ## Linked List
@@ -50,4 +53,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2299-merge-nodes-in-between-zeros) |
+## Recursion
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
