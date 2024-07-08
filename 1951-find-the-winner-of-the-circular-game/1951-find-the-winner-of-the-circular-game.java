@@ -4,7 +4,7 @@ class Solution {
         int flag[]=new int[n+1];
         // 0 0 0 0 0 0 0
 
-        int temp=n;//6
+        int temp=n;// to ensure n-1 times loop chalna chahiye
         int i=1;//4
         int cZeros=n+1;
 
@@ -13,7 +13,7 @@ class Solution {
             int cntIndex=0;//ek bi index nhi mili hai 
             int index=1;
 
-            while(cntIndex<k && cZeros>2){
+            while(cntIndex<k ){
                 if(flag[i]==0){
                     cntIndex++;//3
                     index=i;//3
@@ -23,7 +23,7 @@ class Solution {
             }
             flag[index]=-1;
             temp--;
-            cZeros--;
+            // cZeros--;
         }
 
         int ans=0;
