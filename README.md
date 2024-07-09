@@ -7,6 +7,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0485-max-consecutive-ones](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
