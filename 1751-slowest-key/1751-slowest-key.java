@@ -9,10 +9,6 @@ class Solution {
             maxDiff=Math.max(maxDiff,diff[i]);
         }
 
-        for(int i=0;i<diff.length;i++)      System.out.print(diff[i]+" ");
-
-        System.out.println("maxDiff: "+maxDiff);
-
         char ans='$';
         for(int i=0;i<diff.length;i++){
             if(diff[i]==maxDiff)        {
