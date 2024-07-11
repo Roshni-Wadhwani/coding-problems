@@ -13,7 +13,7 @@ class Solution {
         }
     }
     public String reverseParentheses(String s) {
-Deque<Integer> stack = new ArrayDeque<>();
+        Deque<Integer> stack = new ArrayDeque<>();
         int[] pairs = new int[s.length()];
 
         // Track the matching parentheses indices
