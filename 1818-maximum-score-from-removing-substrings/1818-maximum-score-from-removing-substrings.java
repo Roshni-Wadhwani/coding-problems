@@ -1,9 +1,5 @@
 class Solution {
     public int maximumGain(String s, int x, int y) {
-        //aabbaaxybbaabb
-        // a
-
-        String str[]=s.split("");
         int ans=0;
 
         Deque<Character>stack=new ArrayDeque<>();
