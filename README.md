@@ -6,6 +6,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0485-max-consecutive-ones) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
@@ -19,6 +20,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
@@ -31,6 +33,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
@@ -86,4 +89,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
