@@ -48,6 +48,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
