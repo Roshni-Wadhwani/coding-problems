@@ -17,6 +17,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -26,6 +27,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 ## Two Pointers
 |  |
@@ -108,4 +110,5 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
