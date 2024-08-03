@@ -11,6 +11,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
+| [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
@@ -116,4 +117,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
