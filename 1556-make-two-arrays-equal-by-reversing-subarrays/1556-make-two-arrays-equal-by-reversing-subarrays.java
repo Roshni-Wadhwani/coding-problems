@@ -4,10 +4,7 @@ class Solution {
         Arrays.sort(arr);
 
         for(int i=0;i<target.length;i++){
-            int elem1=target[i];
-            int elem2=arr[i];
-
-            if(elem1!=elem2)                    return false;         
+            if(target[i]!=arr[i])                    return false;         
         }
         return true;
     }
