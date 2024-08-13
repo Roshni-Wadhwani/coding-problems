@@ -65,6 +65,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
@@ -86,6 +87,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -120,9 +122,14 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
