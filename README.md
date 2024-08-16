@@ -11,6 +11,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0120-triangle](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
@@ -130,6 +131,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0120-triangle) |
+| [0416-partition-equal-subset-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
