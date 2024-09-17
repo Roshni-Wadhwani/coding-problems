@@ -21,21 +21,19 @@ class Solution {
         //
         long sumArray=0;
         for(int i=0;i<chalk.length;i++)             sumArray+=chalk[i];
-
-        long mod=k%sumArray;
+        
         long div=k/sumArray;
         long nearestMultiple=sumArray*div;
         k-=nearestMultiple;
 
         int stud=0;
         while(k>0){
-            if(stud>=chalk.length)      stud=stud%chalk.length;
             k-=chalk[stud];
             if(k<0)                     return stud;
             stud++;
         }
 
-        return stud%chalk.length;
+        return stud;
 
     }
 }
