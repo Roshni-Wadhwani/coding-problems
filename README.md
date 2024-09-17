@@ -23,6 +23,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
@@ -45,6 +46,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +83,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
@@ -151,4 +154,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0064-minimum-path-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
