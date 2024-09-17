@@ -34,7 +34,7 @@ class Solution {
             stud++;
         }
 
-        return stud;
+        return stud%chalk.length;
 
     }
 }
