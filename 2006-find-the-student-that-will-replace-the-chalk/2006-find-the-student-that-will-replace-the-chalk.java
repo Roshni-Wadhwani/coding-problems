@@ -29,13 +29,12 @@ class Solution {
 
         int stud=0;
         while(k>0){
-            if(stud>=chalk.length)      stud=stud%chalk.length;
             k-=chalk[stud];
             if(k<0)                     return stud;
             stud++;
         }
 
-        return stud%chalk.length;
+        return stud;
 
     }
 }
