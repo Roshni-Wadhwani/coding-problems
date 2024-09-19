@@ -78,6 +78,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0062-unique-paths) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
@@ -104,6 +105,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -114,6 +116,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
@@ -145,6 +148,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0063-unique-paths-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0120-triangle) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1511-count-number-of-teams) |
@@ -155,6 +159,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
