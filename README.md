@@ -117,6 +117,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
@@ -177,4 +178,16 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
