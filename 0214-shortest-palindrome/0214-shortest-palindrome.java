@@ -74,6 +74,25 @@ class Solution {
 
 
     // brute force appraoch-2
+    /*
+        basically a palindrome is when the string remains same when reversed.
+        so, consider s=aacecaaa so reversedString=aaacecaa
+        here, we try to compare both original string and reversed string.. 
+        if they are same we can return that string..
+        else we compare the strings by taking their substrings ..
+            for this we will loop through a string and 
+            check if substring of s from 0 to len-i = substring of reversed string from i till last
+            if equal return concatenation(reversedSubstring(i) and s);
+
+            example:-s=aacecaaa , reversedstring->aaacecaa
+                i=0 substring_s=aacecaaa    substring_reversed=aaacecaa
+                both are not equal, lets increment i
+                i=1 substring_s=aacecaa     substring_reversed=aacecaa
+                as you can clearly see both are equal..
+                so we will just return concatenation (a+aacecaaa)= aaacecaaa
+                and this is our required ans.
+
+    */
     public String shortestPalindrome(String s){
         int len=s.length();
         String reversedString="";
