@@ -190,4 +190,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
