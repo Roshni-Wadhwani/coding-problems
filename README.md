@@ -30,6 +30,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -44,10 +45,12 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1741-sort-array-by-increasing-frequency](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Two Pointers
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +71,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
 ## Graph
 |  |
