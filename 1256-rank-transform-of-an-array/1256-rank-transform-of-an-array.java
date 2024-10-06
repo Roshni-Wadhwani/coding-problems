@@ -1,12 +1,9 @@
 class Solution {
     public int[] arrayRankTransform(int[] arr) {
         List<Integer>nums=new ArrayList<>();
-
         for(Integer num:arr)        nums.add(num);
-
         Collections.sort(nums);
 
-        // [10,20,30,40]
         HashMap<Integer,Integer>index=new HashMap<>();
         int ptr=0;
 
@@ -16,9 +13,6 @@ class Solution {
                 ptr++;
             }
         }
-        // System.out.println(nums);
-        // System.out.println(index);
-        // {10:1, 20:2, 30:3. 40:4}
         int ans[]=new int[arr.length];
 
         int k=0;
