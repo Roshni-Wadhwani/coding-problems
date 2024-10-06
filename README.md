@@ -27,6 +27,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
@@ -52,6 +53,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +65,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2846-robot-collisions) |
