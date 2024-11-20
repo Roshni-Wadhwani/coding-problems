@@ -30,7 +30,6 @@ class Solution {//
             k=Math.abs(k);
             for(int i=0;i<ans.length;i++){
                 ans[i]=calculateSumNeg((code.length-1+i)%code.length,k,code);
-                System.out.println("a[i]: "+ans[i]);
             }
         }
         return ans;
