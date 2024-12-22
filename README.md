@@ -137,6 +137,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
+| [0851-goat-latin](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0851-goat-latin) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
