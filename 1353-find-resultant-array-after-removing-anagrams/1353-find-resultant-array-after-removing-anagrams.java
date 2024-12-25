@@ -30,7 +30,6 @@ class Solution {
                 j++;
             }
         }
-        for(int k=0;k<words.length;k++) System.out.println(words[k]);
 
         for(int k=0;k<words.length;k++)             {
             if(words[k].equals(" "))             {}
