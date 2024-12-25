@@ -6,6 +6,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0120-triangle) |
@@ -42,6 +43,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
@@ -139,6 +142,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
