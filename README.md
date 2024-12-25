@@ -49,6 +49,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0807-custom-sort-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -81,6 +82,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
+| [0807-custom-sort-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0807-custom-sort-string) |
 | [1256-rank-transform-of-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -151,6 +153,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
+| [0807-custom-sort-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0807-custom-sort-string) |
 | [0851-goat-latin](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0851-goat-latin) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
