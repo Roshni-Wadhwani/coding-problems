@@ -22,11 +22,7 @@ class Solution {
             int left=countZeros(0,i,s);
             int right=countOnes(i+1,j-1,s);
 
-            // System.out.println("left: "+left);
-            // System.out.println("right: "+right);
-
             ans=Math.max(ans,left+right);
-            // System.out.println("ans: "+ans);
             i++;
 
             if(i==j-1)              break;
