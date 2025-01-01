@@ -157,6 +157,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0851-goat-latin](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0851-goat-latin) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -212,6 +213,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Rolling Hash
 |  |
