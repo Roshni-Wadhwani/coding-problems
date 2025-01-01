@@ -15,17 +15,14 @@ class Solution {
     }
     public int maxScore(String s) {
         int i=0;
-        int j= s.length();//6
         int ans=0;
 
-        while(i<j && i<s.length()){
+        while(i<s.length()-1){
             int left=countZeros(0,i,s);
-            int right=countOnes(i+1,j-1,s);
+            int right=countOnes(i+1,s.length()-1,s);
 
             ans=Math.max(ans,left+right);
             i++;
-
-            if(i==j-1)              break;
         }
 
         return ans;
