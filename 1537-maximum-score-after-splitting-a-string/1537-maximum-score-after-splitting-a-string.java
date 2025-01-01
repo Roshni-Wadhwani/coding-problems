@@ -17,6 +17,7 @@ class Solution {
         int i=0;
         int ans=0;
 
+        // since empty string is not accepted so taken less than s.length()-1
         while(i<s.length()-1){
             int left=countZeros(0,i,s);
             int right=countOnes(i+1,s.length()-1,s);
