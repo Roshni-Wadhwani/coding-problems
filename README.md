@@ -34,6 +34,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -217,6 +218,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Rolling Hash
 |  |
