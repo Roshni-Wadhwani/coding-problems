@@ -2,8 +2,7 @@ class Solution {
     public int countPalindromicSubsequence(String s) {
         int[] firstIndex = new int[26];
         int[] lastIndex = new int[26];
-        int[] flag = new int[26];
-
+       
         for(int i=0;i<firstIndex.length;i++)    firstIndex[i] = -1;
         for(int i=0;i<lastIndex.length;i++)     lastIndex[i] = -1;
 
