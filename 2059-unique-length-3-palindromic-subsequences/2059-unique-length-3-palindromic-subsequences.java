@@ -17,21 +17,14 @@ class Solution {
             lastIndex[calVal]=i;
         }
 
-        for(int i=0;i<firstIndex.length;i++)    System.out.print(firstIndex[i]+" ");
-        System.out.println();
-        for(int i=0;i<lastIndex.length;i++)     System.out.print(lastIndex[i]+" ");
-
         int cntAns = 0;
         for(int i=0;i<firstIndex.length;i++){
             int startIndex = firstIndex[i];
             int lIndex = lastIndex[i];
 
             HashSet<Character>set = new HashSet<>();
-            for(int j=startIndex+1;j<lIndex;j++){
-                // System.out.println("j: "+j);
-                set.add(s.charAt(j));    
-            }
-            // System.out.println(set);
+            for(int j=startIndex+1;j<lIndex;j++)    set.add(s.charAt(j));
+
             cntAns+=set.size();
         }
 
