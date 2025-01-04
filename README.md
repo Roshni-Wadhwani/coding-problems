@@ -57,6 +57,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1392-find-the-difference-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -163,6 +164,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
@@ -218,6 +220,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Rolling Hash
@@ -245,4 +248,8 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [1755-defuse-the-bomb](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 <!---LeetCode Topics End-->
