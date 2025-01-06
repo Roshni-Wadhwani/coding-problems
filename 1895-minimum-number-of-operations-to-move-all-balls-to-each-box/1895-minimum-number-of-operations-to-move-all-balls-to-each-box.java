@@ -10,16 +10,12 @@ class Solution {
             else                        zeroIndex.add(i);
         }
 
-        // System.out.println(oneIndex);
-        // System.out.println(zeroIndex);
-
         for(int i=0;i<oneIndex.size();i++){
             int index1   =   oneIndex.get(i);
             int tempSum =   0;
             for(int j=0;j<oneIndex.size();j++){
                 int index2  =   oneIndex.get(j);
                 tempSum+=Math.abs(index2-index1);
-                // System.out.println(index1+" "+index2+" "+tempSum);
             }
             ansArr[index1]=tempSum;
         }
@@ -29,7 +25,6 @@ class Solution {
             for(int j=0;j<oneIndex.size();j++){
                 int index2  =   oneIndex.get(j);
                 tempSum+=Math.abs(index2-index1);
-                // System.out.println(index1+" "+index2+" "+tempSum);
             }
             ansArr[index1]=tempSum;
         }
