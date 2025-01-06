@@ -10,8 +10,8 @@ class Solution {
             else                        zeroIndex.add(i);
         }
 
-        System.out.println(oneIndex);
-        System.out.println(zeroIndex);
+        // System.out.println(oneIndex);
+        // System.out.println(zeroIndex);
 
         for(int i=0;i<oneIndex.size();i++){
             int index1   =   oneIndex.get(i);
