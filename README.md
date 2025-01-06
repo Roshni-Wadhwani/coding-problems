@@ -30,6 +30,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1755-defuse-the-bomb](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -164,6 +165,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
 | [1751-slowest-key](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1751-slowest-key) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -219,6 +221,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
