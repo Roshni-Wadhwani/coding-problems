@@ -37,6 +37,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2465-shifting-letters-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -167,6 +168,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
@@ -225,6 +227,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Rolling Hash
 |  |
