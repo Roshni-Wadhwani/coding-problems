@@ -4,10 +4,10 @@ class Solution {
         List<String>ans=new ArrayList<>();
 
         for(int i=0;i<words.length;i++){
-            String word1=words[i];//od
+            String word1=words[i];
             boolean included = false;
             for(int j=0;j<words.length;j++){
-                String word2= words[j];//leetcoder
+                String word2= words[j];
                 if(word1.length()<word2.length()){
                     int p1=0 ;
                     while(p1<=(word2.length()-word1.length())){
@@ -21,7 +21,6 @@ class Solution {
                     if(included)                    break;
                 }
             }              
-            System.out.println(ans);
         }
         return ans;
     }
