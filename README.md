@@ -37,6 +37,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2358-number-of-ways-to-split-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2465-shifting-letters-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2465-shifting-letters-ii) |
@@ -176,6 +177,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2465-shifting-letters-ii) |
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -248,6 +250,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1524-string-matching-in-an-array) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
