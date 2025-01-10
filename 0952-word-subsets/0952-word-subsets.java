@@ -2,7 +2,6 @@ class Solution {
     public List<String> wordSubsets(String[] words1, String[] words2) {
         List<String>ans=new ArrayList<>();
         HashMap<String,int[]>map1=new HashMap<>();
-        // HashMap<String,int[]>map2=new HashMap<>();
 
         for(int i=0;i<words1.length;i++){
             String w=words1[i];
@@ -27,7 +26,7 @@ class Solution {
                 freq[asciiVal]+=1;
                 freqArr[asciiVal]=Math.max(freqArr[asciiVal],freq[asciiVal]);
             }
-            // map2.put(w,freq);
+
         }
 
         for (Map.Entry<String, int[]> entry : map1.entrySet()) {
@@ -35,14 +34,13 @@ class Solution {
             String key = entry.getKey();       // Get the key
             int[] value1 = entry.getValue();    // Get the value
 
-            // for (int[] value2 : map2.values()) {
-                for(int i=0;i<value1.length;i++){
-                    if(value1[i]<freqArr[i])                    {
-                        flag=false;
-                        break;
-                    }
+            for(int i=0;i<value1.length;i++){
+                if(value1[i]<freqArr[i])    {
+                    flag=false;
+                    break;
                 }
-            // }
+            }
+
             if(flag)                                    ans.add(key);
         }
         return ans;
