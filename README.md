@@ -19,6 +19,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
 | [0841-shortest-distance-to-a-character](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0890-lemonade-change](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0890-lemonade-change) |
+| [0952-word-subsets](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -58,6 +59,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0807-custom-sort-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0807-custom-sort-string) |
+| [0952-word-subsets](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0952-word-subsets) |
 | [1256-rank-transform-of-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -168,6 +170,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0807-custom-sort-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0807-custom-sort-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0851-goat-latin) |
+| [0952-word-subsets](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1524-string-matching-in-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1524-string-matching-in-an-array) |
