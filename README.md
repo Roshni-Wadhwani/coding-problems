@@ -63,6 +63,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1256-rank-transform-of-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1502-construct-k-palindrome-strings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -115,6 +116,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
 | [0890-lemonade-change](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0890-lemonade-change) |
+| [1502-construct-k-palindrome-strings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
@@ -173,6 +175,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0952-word-subsets) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1502-construct-k-palindrome-strings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1720-crawler-log-folder](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1720-crawler-log-folder) |
@@ -203,6 +206,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
+| [1502-construct-k-palindrome-strings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Dynamic Programming
 |  |
