@@ -7,7 +7,7 @@ class Solution {
             freq[asciiMod]  +=  1;
         }
 
-        for(int i=0;i<freq.length;i++)      System.out.print(freq[i]+" ");
+        // for(int i=0;i<freq.length;i++)      System.out.print(freq[i]+" ");
         int oddC=0, evenC=0;
         for(int i=0;i<freq.length;i++){
             if(freq[i]!=0)  {
