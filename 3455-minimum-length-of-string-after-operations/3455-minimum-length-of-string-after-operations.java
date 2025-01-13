@@ -4,11 +4,11 @@ class Solution {
         int countAns=0;
 
         for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
-            int asciiVal = (int)ch - 97;
 
-            freq[asciiVal]+=1;
-            if(freq[asciiVal]==3)           freq[asciiVal]-=2;
+            int index = (int)s.charAt(i)-'a';
+
+            freq[index]+=1;
+            if(freq[index]==3)           freq[index]-=2;
 
         }
 
