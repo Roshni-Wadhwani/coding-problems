@@ -14,8 +14,6 @@ class Solution {
 
         for(int i=0;i<freq.length;i++)      countAns+=freq[i];
 
-        for(int i=0;i<freq.length;i++)      System.out.println(freq[i]);
-
         return countAns;
     }
 }
