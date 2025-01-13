@@ -71,6 +71,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2502-sort-the-people](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2502-sort-the-people) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -191,6 +192,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
@@ -211,6 +213,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [1502-construct-k-palindrome-strings](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1502-construct-k-palindrome-strings) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
