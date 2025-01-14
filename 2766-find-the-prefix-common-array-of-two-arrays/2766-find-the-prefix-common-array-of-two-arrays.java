@@ -14,7 +14,7 @@ class Solution {
             freq2[num2]++;
 
             for(int j=1;j<=50;j++){
-                if(freq1[j]==freq2[j] && freq1[j]!=0)          countAns++;
+                if(freq1[j]!=0 && freq1[j]==freq2[j])          countAns++;
             }
             arrC[i]=countAns;
         }
