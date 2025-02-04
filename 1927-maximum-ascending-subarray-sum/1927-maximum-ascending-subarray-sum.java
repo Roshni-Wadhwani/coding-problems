@@ -3,9 +3,8 @@ class Solution {
         int i=1,maxAns=-1,ans=0;
 
         while(i<nums.length){
-            if(nums[i-1]<nums[i])       ans+=nums[i-1];
-            else{
-                ans+=nums[i-1];
+            ans+=nums[i-1];
+            if(nums[i-1]>=nums[i])  {
                 maxAns=Math.max(maxAns,ans);
                 ans=0;
             }
