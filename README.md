@@ -34,6 +34,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [1755-defuse-the-bomb](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1755-defuse-the-bomb) |
 | [1803-average-waiting-time](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1803-average-waiting-time) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2179-most-beautiful-item-for-each-query) |
