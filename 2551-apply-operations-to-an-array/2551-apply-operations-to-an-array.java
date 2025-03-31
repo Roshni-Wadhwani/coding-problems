@@ -26,20 +26,17 @@ class Solution {
             j++;
         }
 
-        for(int r=0;r<nums.length;r++)      System.out.print(nums[r]+"  ");
+        // for(int r=0;r<nums.length;r++)      System.out.print(nums[r]+"  ");
 
         for(int k=0;k<nums.length;k++){
             int zeroIndex=searchZeroIndex(nums,0,n);//2
             int nonZeroIndex=searchNonZeroIndex(nums,k,n);//3
 
-            if(nonZeroIndex<zeroIndex) {}// do nothing
-            else{
-                if(nonZeroIndex>=0 && zeroIndex>=0){
-                    int temp=nums[nonZeroIndex];
-                    nums[nonZeroIndex]=nums[zeroIndex];
-                    nums[zeroIndex]=temp;
-                }
-                else                    return nums;
+            if(zeroIndex<0 || nonZeroIndex<0)       return nums;
+            else if(nonZeroIndex>zeroIndex){
+                int temp=nums[nonZeroIndex];
+                nums[nonZeroIndex]=nums[zeroIndex];
+                nums[zeroIndex]=temp;
             }
         }
 
