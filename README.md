@@ -57,6 +57,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3429-special-array-i](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Two Pointers
 |  |
 | ------- |
