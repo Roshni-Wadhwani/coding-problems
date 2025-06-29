@@ -12,6 +12,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0120-triangle](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0416-partition-equal-subset-sum) |
@@ -63,6 +64,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | ------- |
 | [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0299-bulls-and-cows) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -95,6 +97,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -106,6 +109,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
@@ -141,6 +145,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0241-different-ways-to-add-parentheses) |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/1642-water-bottles) |
@@ -302,6 +307,7 @@ Collection of LeetCode and GFG questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Roshni-Wadhwani/coding-problems/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
